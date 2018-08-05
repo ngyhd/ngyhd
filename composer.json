@@ -1,5 +1,5 @@
 {
-    "name": "doctorjason/mailerqueue",
+    "name": "ngyhd/ngyhd",
 
     "type": "yii2-extension",
 
@@ -13,8 +13,8 @@
     },
     "authors": [
         {
-            "name": "JasonLee",
-            "email": "86267659@qq.com"
+            "name": "ngyhd",
+            "email": "153622362@qq.com"
         }
     ],
 
@@ -25,7 +25,7 @@
 
     "autoload": {
         "psr-4": {
-            "doctorjason\\mailerqueue\\": "src/"
+            "ngyhd\\ngyhd\\": "src/"
         }
     }
 }
