@@ -7,9 +7,9 @@
     "keywords": ["yii2", "redis", "async", "mailer"],
     "license": "MIT",
     "support": {
-        "issues": "https://github.com/BestJason/imooc_yii2_mailerqueue/issues",
-        "forum": "http://www.mr-jason.com",
-        "source": "https://github.com/BestJason/imooc_yii2_mailerqueue"
+        "issues": "",
+        "forum": "",
+        "source": ""
     },
     "authors": [
         {
