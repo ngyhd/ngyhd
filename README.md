@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00ADD8&center=true&vCenter=true&width=500&lines=Hi,+I'm+ngyhd!+👋;Golang+Backend+Developer+🐹;Building+High+Performance+Systems+🚀;Cloud+Native+%26+Microservices+☁️" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00ADD8&center=true&vCenter=true&width=700&lines=Hi,+I'm+ngyhd!+👋;Golang+Backend+Developer+🐹;Building+High+Performance+Systems+🚀;Cloud+Native+%26+Microservices+☁️" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -12,9 +12,9 @@
   
   🌱 I’m exploring **eBPF & Cloud Native Architecture**
   
-  💬 Ask me about **Concurrency, gRPC, and Microservices**
+  💬 Ask me about **Concurrency, gRPC and Microservices**
   
-  📫 Reach me at: **your-email@example.com**
+  📫 Reach me at: **greathd@163.com**
   
   [笔  记]  -  [Sean的编程空间](https://www.yuque.com/ngyhd/sdqiox)  
   [项  目]  -  [Gin Web实战](https://www.yuque.com/ngyhd/sdqiox/iyosrxglvvbm5b36)  
