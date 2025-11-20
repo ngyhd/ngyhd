@@ -21,7 +21,6 @@
   [项  目]  -  [Go-zero实战](https://www.yuque.com/ngyhd/sdqiox/hkcfrvfous3wxu8v)  
   [Web3]  -  [Web3指引](https://github.com/ngyhd/Web3Guide)
 </div>
-<br/>
 <h3 align="center">🛠 Tech Stack & Tools</h3>
 <div align="center">
   <p>
@@ -31,7 +30,6 @@
   </p>
 </div>
 
-<br/>
 
 <h3 align="center">📊 GitHub Stats</h3>
 <div align="center">
