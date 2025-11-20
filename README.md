@@ -54,3 +54,7 @@
   <br/>
   <i>Code Less, Do More.</i>
 </div>
+<div align="center">
+  <img src="https://github.com/ngyhd/ngyhd/raw/output/github-contribution-grid-snake.svg" />
+  
+  </div>
