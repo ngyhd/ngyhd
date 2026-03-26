@@ -10,8 +10,6 @@
   
   🔭 I’m currently building scalable systems with **Golang**
   
-  🌱 I’m exploring **eBPF & Cloud Native Architecture**
-  
   💬 Ask me about **Concurrency, gRPC and Microservices**
   
   📫 Reach me at: **greathd@163.com**
